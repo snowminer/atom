@@ -34,3 +34,14 @@ Now that you have your workspace set up, what do you want to try using Git for?
     testing ground for webpages
 
     see->https://github.com/GM3D/reflections/issues/1
+
+
+    | Header One     | Header Two     |
+    | :------------- | :------------- |
+    | Item One       | Item Two       |
+
+    <table>
+      <tr> * tr for the rows
+       <td>Red</td> td for table data
+      </tr>
+    </table>
